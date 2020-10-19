@@ -1,5 +1,7 @@
 # Front Software Basic Wordpress Plugin
 
+A Basic proof of consept Wordpress pluggin.
+
 ## Plugin info
 
 Plugin Name: Front Software Basic
