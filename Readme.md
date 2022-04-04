@@ -1,39 +1,39 @@
-# Front Software Basic Wordpress Plugin
+# Basic Wordpress Agency Plugin
 
 A Basic proof of consept Wordpress pluggin.
 
 ## Plugin info
 
-Plugin Name: Front Software Basic
-Plugin URI: https://frontsoftware.no/wordpress
+Plugin Name: Basic Wordpress Agency Plugin
+Plugin URI: https://joakimtveter.no
 Description: Legger til funktionalitet Front Software skal ha hos alle sine kunder.
-Version: 0.1
-Requires at least: 4.2
-Requires PHP: 7.0
-Author: Front Software - Joakim Tveter
-Author URI: https://frontsoftware.no
+Version: 0.2
+Requires at least: 5.9
+Requires PHP: 7.2
+Author: Joakim Tveter
+Author URI: https://joakimtveter.no
 
 ## Plugin description
 
-Adds Basic functionality to WordPress and whitelabeling options needed for all Front Softwares Customers.
+Adds Basic Agency functionality to WordPress and whitelabeling options.
 
 ## License
 
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Front Software Basic is free software: you can redistribute it and/or modify
+Basic Wordpress Agency Plugin is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or
 any later version.
 
-Front Software Basic is distributed in the hope that it will be useful,
+Basic Wordpress Agency Plugin is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with Front Software Basic. If not, see https://www.gnu.org/licenses/gpl-2.0.html.
+along with Basic Wordpress Agency Plugin. If not, see https://www.gnu.org/licenses/gpl-2.0.html.
 
 ## Functionality
 
